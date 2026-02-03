@@ -19,7 +19,7 @@ A collection of Python utilities for downloading images from CSV exports and pro
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/fivemerr-download.git
+git clone https://github.com/zhivotnoya/fivemerr-download.git
 cd fivemerr-download
 ```
 
